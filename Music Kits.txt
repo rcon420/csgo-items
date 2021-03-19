@@ -1,4 +1,4 @@
-// https://github.com/rcon420/csgo-items/
+// https://github.com/rcon420/csgo-items-and-skins-ids/
 //
 // Number = KIT ID 
 //
