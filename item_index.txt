@@ -70,6 +70,7 @@
 119: Sage Spray
 122: Jungle Spray
 124: Sand Spray
+125: X-Ray
 135: Urban Perforated
 136: Waves Perforated
 141: Orange Peel
@@ -636,7 +637,29 @@
 721: Survivalist
 722: Snek-9
 723: Eye of Athena
+724: Wild Lotus
+725: Day Lily
+726: Sunset Lily
+727: Midnight Lily
+728: Teal Blossom
+729: Crimson Blossom
+730: Dark Blossom
+731: Banana Leaf
+732: Synth Leaf
+733: Rust Leaf
+734: Wild Lily
 735: Night Stripe
+736: The Prince
+737: Cinquedea
+738: Orange Murano
+739: Violet Murano
+740: Navy Murano
+741: Dark Filigree
+742: Red Filigree
+743: Orange Filigree
+744: Baroque Red
+745: Baroque Purple
+746: Baroque Orange
 747: Twin Turbo
 748: Calf Skin
 749: Vino Primo
@@ -646,6 +669,14 @@
 753: Dirt Drop
 754: Rust Coat
 755: Slide
+756: Gungnir
+757: Emerald Jörmungandr
+758: Flame Jörmungandr
+759: Astral Jörmungandr
+760: Frost Borre
+761: Copper Borre
+762: Red Stone
+763: Mjölnir
 775: Facility Sketch
 776: Facility Negative
 777: Facility Draft
@@ -689,6 +720,174 @@
 815: Danger Close
 816: Fubar
 817: Flashback
+835: Crypsis
+836: Uncharted
+837: Angry Mob
+838: Atheris
+839: Bamboozle
+840: Whitefish
+841: Light Rail
+842: Akoben
+843: Skull Crusher
+844: The Emperor
+845: Momentum
+846: Gauss
+847: Mischief
+848: Verdigris
+849: Off World
+850: Incinegator
+851: Moonrise
+852: Doppler
+853: Doppler
+854: Doppler
+855: Doppler
+856: Marble Fade
+857: Damascus Steel
+858: Damascus Steel
+859: Emerald Quartz
+860: Pyre
+861: Barricade
+862: Moss Quartz
+863: Night Borre
+864: Candy Apple
+865: Stone Mosaico
+866: Canal Spray
+867: Stained Glass
+868: Sea Calico
+869: Sundown
+870: Jungle Thicket
+871: Surfwood
+872: Bamboo Garden
+873: Seabird
+884: Embargo
+885: Rat Rod
+886: Arctic Wolf
+887: Containment Breach
+888: Acid Wash
+889: Decimator
+890: Plume
+891: Black Sand
+892: Memento
+893: Neon Ply
+894: Obsidian
+895: Balance
+896: Torn
+897: Colony IV
+898: Stalker
+899: Bloodshot
+900: Warbird
+902: Aztec
+903: Elite 1.6
+904: Decommissioned
+905: Flash Out
+906: Buddy
+907: Inferno
+908: Classic Crate
+909: Popdog
+910: Hydra
+911: Nostalgia
+913: Death by Puppy
+914: Assault
+915: Agent
+916: Plastique
+917: Wildfire
+918: Sacrifice
+919: Commemoration
+920: Boroque Sand
+941: Phantom Disruptor
+942: Tom Cat
+943: Capillary
+944: Distressed
+945: Blue Ply
+946: Player Two
+947: Disco Tech
+948: Justice
+949: Desert Strike
+950: Prototype
+951: Acid Etched
+952: Bone Forged
+953: Apocalypto
+954: Enforcer
+955: Darkwing
+956: Fever Dream
+957: Bullet Queen
+958: Ultralight
+959: Legion of Anubis
+960: Gnarled
+961: Monster Call
+962: Printstream
+963: Vogue
+964: Brother
+965: Allure
+966: Ol' Rusty
+967: Mainframe 001
+968: Cassette
+969: Freight
+970: Entombed
+971: Tooth Fairy
+972: Connexion
+973: Runic
+974: Kitbash
+975: Exoskeleton
+976: Vendetta
+977: Cocoa Rampage
+978: Dezastre
+979: Fairy Tale
+980: Digital Mesh
+981: Vandal
+982: Contaminant
+983: Deep Relief
+984: Printstream
+985: Cyber Security
+986: Condition Zero
+987: Clear Polymer
+988: Neo-Noir
+989: Parallax
+990: Gold Bismuth
+991: Monster Mashup
+992: The Bronze
+993: Global Offensive
+994: Charter
+995: Surveillance
+996: Threat Detected
+997: Dispatch
+998: Switch Board
+999: Prime Conspiracy
+1000: Run and Hide
+1001: Welcome to the Jungle
+1002: Berries And Cherries
+1003: Crime Scene
+1004: X-Ray
+1005: Heist
+1006: Night Heist
+1007: Vault Heist
+1008: Houndstooth
+1009: Hot Snakes
+1010: Phoenix Chalk
+1011: Phoenix Marker
+1012: Phoenix Stencil
+1013: Phoenix Blacklight
+1014: Clay Ambush
+1015: Tiger Pit
+1016: Franklin
+1017: Blue Phosphor
+1018: Panthera onca
+1019: Panther Camo
+1020: Ancient Earth
+1021: Ancient Lore
+1022: Lush Ruins
+1023: Tall Grass
+1024: Blast From the Past
+1025: Gold Brick
+1026: Fade
+1027: Target Acquired
+1028: Magna Carta
+1029: Silk Tiger
+1030: Bengal Tiger
+1031: Ancient Visions
+1032: Dusk Ruins
+1033: Carved Jade
+1034: Ancient Ritual
 10006: Charred
 10007: Snakebite
 10008: Bronzed
@@ -737,3 +936,27 @@
 10062: Buckshot
 10063: Fade
 10064: Mogul
+10065: Marble Fade
+10066: Lt. Commander
+10067: Tiger Strike
+10068: Field Agent
+10069: Rezan the Red
+10070: Snow Leopard
+10071: Queen Jaguar
+10072: Black Tie
+10073: Slingshot
+10074: Big Game
+10075: Scarlet Shamagh
+10076: Nocts
+10077: Finish Line
+10078: Smoke Out
+10079: Blood Pressure
+10080: 3rd Commando Company
+10081: Desert Shamagh
+10082: Giraffe
+10083: Constrictor
+10084: CAUTION!
+10085: Jade
+10086: Yellow-banded
+10087: Needle Point
+10088: Unhinged
