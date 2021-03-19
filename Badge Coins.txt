@@ -1,0 +1,499 @@
+// https://github.com/rcon420/csgo-items/
+//
+// Number = Badge Coin ID 
+
+"COIN"
+{
+	"Major"
+	{
+		"is_category" "1"
+		"StarLadder Berlin 2019"
+		{
+			"975"	"Champion"
+			"976"	"Finalist"
+			"977"	"Semifinalist"
+			"978"	"Quarter finalist"
+		}
+		
+		"IEM Katowice 2019"
+		{
+			"971"	"Champion"
+			"972"	"Finalist"
+			"973"	"Semifinalist"
+			"974"	"Quarter finalist"
+		}
+		
+		"FACEIT London 2018"
+		{
+			"962"	"Champion"
+			"963"	"Finalist"
+			"964"	"Semifinalist"
+			"965"	"Quarter finalist"
+		}
+		
+		"ELEAGUE Boston 2018"
+		{
+			"955"	"Champion"
+			"956"	"Finalist"
+			"957"	"Semifinalist"
+			"958"	"Quarter finalist"
+		}
+		
+		"PGL Krakow 2017"
+		{
+			"948"	"Champion"
+			"949"	"Finalist"
+			"950"	"Semifinalist"
+			"951"	"Quarter finalist"
+		}
+		
+		"ELEAGUE Atlanta 2017"
+		{
+			"941"	"Champion"
+			"942"	"Finalist"
+			"943"	"Semifinalist"
+			"944"	"Quarter finalist"
+		}
+		
+		"ESL One Cologne 2016"
+		{
+			"931"	"Champion"
+			"932"	"Finalist"
+			"933"	"Semifinalist"
+			"934"	"Quarter finalist"
+		}
+		
+		"MLG Columbus 2016"
+		{
+			"927"	"Champion"
+			"928"	"Finalist"
+			"929"	"Semifinalist"
+			"930"	"Quarter finalist"
+		}
+		
+		"DreamHack Cluj-Napoca 2015"
+		{
+			"917"	"Champion"
+			"918"	"Finalist"
+			"919"	"Semifinalist"
+			"920"	"Quarter finalist"
+		}
+		
+		"ESL One Cologne 2015"
+		{
+			"904"	"Champion"
+			"905"	"Finalist"
+			"906"	"Semifinalist"
+			"907"	"Quarter finalist"
+		}
+		
+		"ESL One Katowice 2015"
+		{
+			"897"	"Champion"
+			"898"	"Finalist"
+			"899"	"Semifinalist"
+			"900"	"Quarter finalist"
+		}
+		
+		"DreamHack Winter 2014"
+		{
+			"890"	"Champion"
+			"891"	"Finalist"
+			"892"	"Semifinalist"
+			"893"	"Quarter finalist"
+		}
+		
+		"ESL One Cologne 2014"
+		{
+			"883"	"Champion"
+			"884"	"Finalist"
+			"885"	"Semifinalist"
+			"886"	"Quarter finalist"
+		}
+		
+		"EMS One Katowice 2014"
+		{
+			"879"	"Champion"
+			"880"	"Finalist"
+			"881"	"Semifinalist"
+			"882"	"Quarter finalist"
+		}
+		
+		"DreamHack SteelSeries 2013"
+		{
+			"875"	"Champion"
+			"876"	"Finalist"
+			"877"	"Semifinalist"
+			"878"	"Quarter finalist"
+		}
+	}
+	
+	"Pick'Em"
+	{
+		"is_category" "1"
+		"FACEIT London 2018"
+		{
+			"968"	"Gold Trophy"
+			"967"	"Silver Trophy"
+			"966"	"Bronze Trophy"
+		}
+		
+		"ELEAGUE Boston 2018"
+		{
+			"961"	"Gold Trophy"
+			"960"	"Silver Trophy"
+			"959"	"Bronze Trophy"
+		}
+		
+		"PGL Krakow 2017"
+		{
+			"954"	"Gold Trophy"
+			"953"	"Silver Trophy"
+			"952"	"Bronze Trophy"
+		}
+		
+		"ELEAGUE Atlanta 2017"
+		{
+			"947"	"Gold Trophy"
+			"946"	"Silver Trophy"
+			"945"	"Bronze Trophy"
+		}
+		
+		"ESL One Cologne 2016"
+		{
+			"937"	"Gold Trophy"
+			"936"	"Silver Trophy"
+			"935"	"Bronze Trophy"
+			"940"	"Gold Fantasy Trophy"
+			"939"	"Silver Fantasy Trophy"
+			"938"	"Bronze Fantasy Trophy"
+		}
+		
+		"MLG Columbus 2016"
+		{
+			"923"	"Gold Trophy"
+			"922"	"Silver Trophy"
+			"921"	"Bronze Trophy"
+			"926"	"Gold Fantasy Trophy"
+			"925"	"Silver Fantasy Trophy"
+			"924"	"Bronze Fantasy Trophy"
+		}
+		
+		"DreamHack Cluj-Napoca 2015"
+		{
+			"913"	"Gold Trophy"
+			"912"	"Silver Trophy"
+			"911"	"Bronze Trophy"
+			"916"	"Gold Fantasy Trophy"
+			"915"	"Silver Fantasy Trophy"
+			"914"	"Bronze Fantasy Trophy"
+		}
+		
+		"ESL One Cologne 2015"
+		{
+			"910"	"Gold Trophy"
+			"909"	"Silver Trophy"
+			"908"	"Bronze Trophy"
+		}
+		
+		"ESL One Katowice 2015"
+		{
+			"903"	"Gold Fantasy Trophy"
+			"902"	"Silver Trophy"
+			"901"	"Bronze Trophy"
+		}
+		
+		"DreamHack Winter 2014"
+		{
+			"896"	"Gold Fantasy Trophy"
+			"895"	"Silver Trophy"
+			"894"	"Bronze Trophy"
+		}
+		
+		"ESL One Cologne 2014"
+		{
+			"889"	"Gold Fantasy Trophy"
+			"888"	"Silver Trophy"
+			"887"	"Bronze Trophy"
+		}
+	}
+	
+	"Operations"
+	{
+		"is_category" "1"
+
+		"Broken Fang"
+		{
+			"4703"	"Diamond Coin"
+			"4702"	"Gold Coin"
+			"4701"	"Silver Coin"
+			"4700"	"Challenge Coin"
+		}
+
+		"Shattered Web"
+		{
+			"4553"	"Diamond Coin"
+			"4552"	"Gold Coin"
+			"4551"	"Silver Coin"
+			"4550"	"Challenge Coin"
+		}
+		
+		"Hydra"
+		{
+			"4356"	"Diamond Coin"
+			"4355"	"Gold Coin"
+			"4354"	"Silver Coin"
+			"4353"	"Challenge Coin"
+		}
+		
+		"Wildfire"
+		{
+			"1338"	"Gold Coin"
+			"1337"	"Silver Coin"
+			"1336"	"Challenge Coin"
+		}
+		
+		"Bloodhound"
+		{
+			"1329"	"Gold Coin"
+			"1328"	"Silver Coin"
+			"1327"	"Challenge Coin"
+		}
+		
+		"Vanguard"
+		{
+			"1318"	"Gold Coin"
+			"1317"	"Silver Coin"
+			"1316"	"Challenge Coin"
+		}
+		
+		"Breakout"
+		{
+			"1030"	"Gold Coin"
+			"1029"	"Silver Coin"
+			"1028"	"Challenge Coin"
+		}
+		
+		"Phoenix"
+		{
+			"1026"	"Gold Coin"
+			"1025"	"Silver Coin"
+			"1024"	"Challenge Coin"
+		}
+		
+		"Bravo"
+		{
+			"1015"	"Gold Coin"
+			"1014"	"Silver Coin"
+			"1013"	"Challenge Coin"
+		}
+		
+		"Payback"
+		{
+			"1003"	"Gold Coin"
+			"1002"	"Silver Coin"
+			"1001"	"Challenge Coin"
+		}
+	}
+	
+	"Collectible Coins"
+	{
+		"is_category" "1"
+		"Half-Life: Alyx"
+		{
+			"6034"	"Alyx"
+			"4682"	"Civil Protection"
+			"4683"	"Food!"
+			"4684"	"Vortigaunt"
+			"4685"	"Headcrab Glyph"
+			"4686"	"Health"
+			"4687"	"Lambda"
+			"4688"	"Copper Lambda"
+			"4689"	"CMB"
+			"4690"	"Black Mesa"
+			"4691"	"Combine Helmet"
+			"4692"	"City 17"
+		}
+		
+		"Third Series Pins"
+		{
+			"6023"	"Guardian 3"
+			"6024"	"Canals"
+			"6025"	"Welcome to the Clutch"
+			"6026"	"Death Sentence"
+			"6027"	"Inferno 2"
+			"6028"	"Wildfire"
+			"6029"	"Easy Peasy"
+			"6030"	"Aces High"
+			"6031"	"Hydra"
+			"6032"	"Howl"
+			"6033" 	"Brigadier General"
+		}
+		
+		"Second series Pins"
+		{
+			"6012"	"Guardian 2"
+			"6013"	"Bravо"
+			"6014"	"Baggage"
+			"6015"	"Phoenix"
+			"6016"	"Office"
+			"6017"	"Cobblestone"
+			"6018"	"Overpass"
+			"6019"	"Bloodhound"
+			"6020"	"Cache"
+			"6021"	"Valeria Phoenix"
+			"6022"	"Chroma"
+		}
+		
+		"First series Pins"
+		{
+			"6001"	"Dust II"
+			"6002"	"Guardian Elite"
+			"6003"	"Mirage"
+			"6004"	"Inferno"
+			"6005"	"Italy"
+			"6006"	"Victory"
+			"6007"	"Militia"
+			"6008"	"Nuke"
+			"6009"	"Train"
+			"6010"	"Guardian"
+			"6011"	"Tactics"
+		}
+	}
+	
+	"Other"
+	{
+		"is_category" "1"
+		"Service"
+		{
+			"969"	"10 Year Veteran Coin"
+			"874"	"5 Year Veteran Coin"
+			"970"	"Loyalty Badge"
+		}
+		
+		"Map Coin"
+		{	
+			"1069"	"Elysion"
+			"1068"	"Guard"
+			"1067"	"Apollo"
+			"1066"	"Engage"
+			"1065"	"Frostbite"
+			"1064"	"Swamp"
+			"1063"	"Mutiny"
+			"1062"	"Chlorine"
+			"1061"	"Anubis"
+			"1060"	"Jungle"
+			"1059"	"Studio"
+			"1058"	"Breach"
+			"1057"	"Ruby"
+			"1056"	"Abbey"
+			"1055"	"Biome"
+			"1054"	"Subzero"
+			"1053"	"Cruise"
+			"1052"	"Tulip"
+			"1051"	"Empire"
+			"1050"	"Royal"
+			"1049"	"Mikla"
+			"1048"	"Coast"
+			"1047"	"Santorini"
+			"1046"	"Zoo"
+			"1045"	"Resort"
+			"1044"	"Rails"
+			"1043"	"Log"
+			"1042"	"Facade"
+			"1041"	"Bazaar"
+			"1040"	"Season"
+			"1039"	"Backalley"
+			"1038"	"Workout"
+			"1037"	"Marquis"
+			"1036"	"Overgrown"
+			"1035"	"Insertion"
+			"1034"	"Mist"
+			"1033"	"Rush"
+			"1032"	"Black Gold"
+			"1031"	"Castle"
+			"1022"	"Siege"
+			"1021"	"Ruinsy"
+			"1020"	"Gwalior"
+			"1019"	"Chinatown"
+			"1018"	"Cache"
+			"1017"	"Ali"
+			"1016"	"Agency"
+			"1004"	"Museum"
+			"1005"	"Downtown"
+			"1006"	"Thunder"
+			"1007"	"Favela"
+			"1008"	"Motel"
+			"1009"	"Seaside"
+			"1010"	"Library"
+		}
+		
+		"Service Medal 2021"
+		{
+			"4742"	"Level 6"
+			"4741"	"Level 5"
+			"4740"	"Level 4"
+			"4739"	"Level 3"
+			"4738"	"Level 2"
+			"4737"	"Level 1"
+		}
+
+		"Service Medal 2020"
+		{
+			"4679"	"Level 6"
+			"4678"	"Level 5"
+			"4677"	"Level 4"
+			"4676"	"Level 3"
+			"4675"	"Level 2"
+			"4674"	"Level 1"
+		}
+		
+		"Service Medal 2019"
+		{
+			"1381"	"Level 6"
+			"1380"	"Level 5"
+			"1379"	"Level 4"
+			"1378"	"Level 3"
+			"1377"	"Level 2"
+			"1376"	"Level 1"
+		}
+		
+		"Service Medal 2018"
+		{
+			"1372"	"Level 6"
+			"1371"	"Level 5"
+			"1370"	"Level 4"
+			"1369"	"Level 3"
+			"1368"	"Level 2"
+			"1367"	"Level 1"
+		}
+		
+		
+		"Service Medal 2017"
+		{
+			"1363"	"Level 7"
+			"1362"	"Level 6"
+			"1361"	"Level 5"
+			"1360"	"Level 4"
+			"1359"	"Level 3"
+			"1358"	"Level 2"
+			"1357"	"Level 1"
+		}
+		
+		"Service Medal 2016"
+		{
+			"1344"	"Level 6"
+			"1343"	"Level 5"
+			"1342"	"Level 4"
+			"1341"	"Level 3"
+			"1340"	"Level 2"
+			"1339"	"Level 1"
+		}
+		
+		"Service Medal 2015"
+		{
+			"1332"	"Level 2"
+			"1331"	"Level 1"
+		}
+	}
+}
